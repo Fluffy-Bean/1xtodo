@@ -56,7 +56,7 @@ $tasks = mysqli_query($conn, $query);
 <html>
 <head>
     <title>Task List</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
     <h1>Task List</h1>
